@@ -7,8 +7,11 @@ Please mind that *I didn't create the files which are being offered here* - I ju
  
 However, before reaching out, please refer to the [official Klipper documentation](https://www.klipper3d.org/) and try to solve the problem on your own. 
 
+---
 
-**Disclaimer: USE AT YOUR WON RISK!**  
+## Disclaimer  
+
+***USE AT YOUR WON RISK!***  
 **I'm not responsible in any way if your machine somehow gets harmed or if any problems occur when using any of the files which are being offered here!**  
 
 ---
