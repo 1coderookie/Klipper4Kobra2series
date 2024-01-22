@@ -25,3 +25,10 @@ As soon as you have done this correct, you should be able to connect to the prin
 
 Once you're able to do so, continue with the [configuration checks](https://www.klipper3d.org/Config_checks.html).  
 *Don't skip this step and try to start printing right away as you might end up harming the machine if any configuration is somewhat wrong!*  
+
+---
+
+***If you like this work, please consider starring and supporting it.***  
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U5NPB51)  
+
