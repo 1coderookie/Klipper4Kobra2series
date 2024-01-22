@@ -10,6 +10,7 @@ However, before reaching out, please refer to the [official Klipper documentatio
 ---
 
 ## Installation and Configuration  
+
 Please refer to the [official Klipper documentation about how to install and configure Klipper](https://www.klipper3d.org/Installation.html) in the first place for an extensive description about how to install and configure Klipper!  
 (Note: at those docs there's OctoPrint being mentioned - you don't need to have that one installed though!)  
 
