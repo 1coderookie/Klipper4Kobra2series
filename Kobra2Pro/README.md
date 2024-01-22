@@ -1,7 +1,7 @@
 # Files for the KOBRA 2 PRO
 
 Unfortunately it's not (yet) possible to flash a native Klipper to the **Kobra 2 Pro**, so I can't offer any files here yet.  
-As soon as I'll come around a working solution, you'll find the files here then.  
+As soon as I'll come across a working solution, you'll find the files here then.  
 
 However, if you own a **Kobra 2 Pro**, you might want to check out my comprehensive infosite about it: [Kobra2Pro Insights](https://1coderookie.github.io/Kobra2ProInsights/)  
 You'll find many specific information as well as some general kind of information.  
