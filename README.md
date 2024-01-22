@@ -11,7 +11,8 @@ However, before reaching out, please refer to the [official Klipper documentatio
 
 ## Disclaimer  
 
-***USE AT YOUR WON RISK!***  
+***USE AT YOUR OWN RISK!***  
+
 **I'm not responsible in any way if your machine somehow gets harmed or if any problems occur when using any of the files which are being offered here!**  
 
 ---
