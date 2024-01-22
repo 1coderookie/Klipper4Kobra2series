@@ -6,7 +6,7 @@ As soon as I'll come around a working solution, you'll find the files here then.
 However, if you own a **Kobra 2 Pro**, you might want to check out my comprehensive infosite about it: [Kobra2Pro Insights](https://1coderookie.github.io/Kobra2ProInsights/)  
 You'll find many specific information as well as some general kind of information.  
 
-There's also a [specific chapter about Klipper](https://1coderookie.github.io/Kobra2ProInsights/firmware/fw_klipper/) - once somewhat came up with a working solution, you'll find more information about it there as well.    
+There's also a [specific chapter about Klipper](https://1coderookie.github.io/Kobra2ProInsights/firmware/fw_klipper/) - once someone came up with a working solution, you'll find more information about it there as well.    
  
 
 <!--
