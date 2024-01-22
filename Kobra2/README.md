@@ -13,6 +13,13 @@ There's also a [specific chapter about Klipper](https://1coderookie.github.io/Ko
 
 ---
 
+## Disclaimer  
+
+***USE AT YOUR WON RISK!***  
+**I'm not responsible in any way if your machine somehow gets harmed or if any problems occur when using any of the files which are being offered here!**  
+
+---
+
 ## Installation and Configuration  
 
 ***ATTENTION!***
