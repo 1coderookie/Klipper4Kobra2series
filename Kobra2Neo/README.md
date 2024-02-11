@@ -3,6 +3,8 @@ Here you'll find the specific `klipper.bin` and an example `printer.cfg` file fo
  
 *Thanks to ... for creating and contributing the specific files!*  
 
+If you have questions about the specific files, please reach out to the contributor directly or (if you somehow can't) open an issue here where you then mention the contributor, so that he gets a notification. Plese *don't* reach out to me personally as I didn't create the files. Thanks. 
+
 ---
 
 If you own a **Kobra 2 Neo**, you might want to check out my comprehensive infosite about it: [Kobra2Neo Insights](https://1coderookie.github.io/Kobra2NeoInsights/)  
@@ -17,6 +19,7 @@ There's also a [specific chapter about Klipper](https://1coderookie.github.io/Ko
 ***USE AT YOUR OWN RISK!***  
 
 **I'm not responsible in any way if your machine somehow gets harmed or if any problems occur when using any of the files which are being offered here!**  
+
 
 ---
 
