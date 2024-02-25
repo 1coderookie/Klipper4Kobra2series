@@ -1,9 +1,11 @@
 # Files for the KOBRA 2 NEO
 Here you'll find the specific `klipper.bin` and an example `printer.cfg` file for the **Kobra 2 Neo**.  
  
-*Thanks to ... for creating and contributing the specific files!*  
+*Thanks to @[AJolly](https://github.com/AJolly) for contributing the specific files!*  
 
-If you have questions about the specific files, please reach out to the contributor directly or (if you somehow can't) open an issue here where you then mention the contributor, so that he gets a notification. Plese *don't* reach out to me personally as I didn't create the files. Thanks. 
+If you have questions about the specific files, please reach out to the contributor directly or (if you somehow can't) open an issue here where you then mention the contributor, so that he gets a notification.  
+*Please* ***don't*** *reach out to me personally as I didn't create the files!*  
+Thanks. 
 
 ---
 
