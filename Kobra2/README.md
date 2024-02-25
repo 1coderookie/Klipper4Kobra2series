@@ -1,4 +1,9 @@
 # Files for the KOBRA 2
+
+## Currently there aren't any files available here yet, I'm waiting for a PR..
+
+---
+
 Here you'll find the specific `klipper.bin` and an example `printer.cfg` file for the **Kobra 2**.  
  
 *Thanks to ... for creating and contributing the specific files!*  
