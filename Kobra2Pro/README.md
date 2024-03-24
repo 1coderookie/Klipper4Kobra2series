@@ -13,10 +13,12 @@ As soon as I'll come across a working solution, you'll find the files here then.
 ---
 
 **3rd Party Manufacturer Mainboard**  
+
 You can install a different mainboard to get a native Klipper running.  
+
 I personally use an MKS Robin Nano v3.1 at my Kobra 2 Pro.  
 You can find a description about it at my infosite:  
-You can find the `klipper.bin` and the `printer.cfg` I set up for it in the belonging subfolder here.  
+You can find the `klipper.bin` and the `printer.cfg` I set up for it in the belonging subfolder here:   
 
 If someone installs a different mainboard and wants to contribute a working `printer.cfg` for that specific setup, I'll be happy to add it here as well.
 
