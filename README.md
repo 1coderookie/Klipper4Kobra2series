@@ -1,11 +1,18 @@
 # Klipper4Kobra2series
-This is a collection of `klipper.bin` and example `printer.cfg` files for Anycubic Kobra 2 series models (if there are any available).  
-Currently it's **not** possible to flash a native Klipper to the Kobra 2 Pro/Plus/Max onto the stock mainboard, so you won't find any files here yet. If it'll ever be possible and I come across working solutions, I'll add them here as well.  
+This is a collection of example `printer.cfg` files for Anycubic Kobra 2 series models (if there are any available).  
 
-Please mind that *I didn't create the files which are being offered here* - I just reached out to people I came across who offered their files somewhere and asked if they'd be willing to upload their files here as well, so that it'll be easier to find them.  
+Please mind that *I didn't create all the files which are being offered here* - I just reached out to people I came across who offered their files somewhere and asked if they'd be willing to upload their files here as well, so that it'll be easier to find them.  
 *So if you have any questions about specific files or configurations, please don't reach out to me - reach out to the specific author/contributor instead!*  
  
 However, before reaching out, please refer to the [official Klipper documentation](https://www.klipper3d.org/) and try to solve the problem on your own. 
+
+---
+
+**If you didn't come across them yet, please see my comprehensive infosites about various Anycubic FDM printers:**  
+- [Kobra 2 Neo Insights](https://1coderookie.github.io/Kobra2NeoInsights/)  
+- [Kobra 2 Pro Insights](https://1coderookie.github.io/Kobra2ProInsights/)  
+- [Kobra 2 Plus Insights](https://1coderookie.github.io/Kobra2PlusInsights/)  
+- [Kobra 2 Max Insights](https://1coderookie.github.io/Kobra2MaxInsights/)  
 
 ---
 
