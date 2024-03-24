@@ -1,7 +1,28 @@
 # Files for the KOBRA 2 MAX
 
-Unfortunately it's not (yet) possible to flash a native Klipper to the **Kobra 2 Max**, so I can't offer any files here yet.  
+If you own a **Kobra 2 Max**, you might want to check out my comprehensive infosite about it: [Kobra2Max Insights](https://1coderookie.github.io/Kobra2MaxInsights/)  
+You'll find many specific information as well as some general kind of information.   
+
+---
+
+**Stock Mainboard**  
+
+Unfortunately it's not (yet) possible to flash a native Klipper to the stock mainboard of the **Kobra 2 Max**, so I can't offer any files for that here yet.  
 As soon as I'll come across a working solution, you'll find the files here then.  
+
+---
+
+**3rd Party Manufacturer Mainboard**  
+
+You can install a different mainboard to get a native Klipper running.  
+
+I personally use an MKS Robin Nano v3.1 at my Kobra 2 Pro.  
+You can find a description about it at my infosite: [MOD: MKS Robin Nano v3.1](https://1coderookie.github.io/Kobra2MaxInsights/hardware/mainboard/#mod-mks-robin-nano-v31)  
+You can find the `printer.cfg` I set up for it in the belonging subfolder of this repository.   
+
+If someone installs a different mainboard and wants to contribute a working `printer.cfg` for that specific setup, I'll be happy to add it here as well.
+
+
 
 <!--
 However, if you own a **Kobra 2 Max**, you might want to check out my comprehensive infosite about it: [Kobra2Max Insights](https://1coderookie.github.io/Kobra2MaxInsights/)  
