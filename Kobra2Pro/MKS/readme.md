@@ -1,1 +1,2 @@
-Here you'll find `printer.cfg` files for specific MKS boards. 
+This `printer.cfg` file is made to fit the installation and pin assignments of my MKS Robin Nano v3.1 mod - please see the following section of my comprehensive [Kobra2Pro Insights](https://1coderookie.github.io/Kobra2ProInsights/) infosite for further information: [MOD: MKS Robin Nano v3.1](https://1coderookie.github.io/Kobra2ProInsights/hardware/mainboard/#mod-mks-robin-nano-v31)
+
