@@ -1,23 +1,21 @@
 # Files for the KOBRA 2
 
-## Currently there aren't any files available here yet, I'm waiting for a PR..
-
 ---
 
-Here you'll find the specific `klipper.bin` and an example `printer.cfg` file for the **Kobra 2**.  
+Here you'll find an example `printer.cfg` file for the **Kobra 2**.  
  
-*Thanks to ... for creating and contributing the specific files!*  
+*Thanks to [OldNKrusty](https://github.com/user/OldNKrusty) for contributing the file!*  
 
 If you have questions about the specific files, please reach out to the contributor directly or (if you somehow can't) open an issue here where you then mention the contributor, so that he gets a notification. Plese *don't* reach out to me personally as I didn't create the files. Thanks. 
 
 
-<!---
+---
 
 If you own a **Kobra 2**, you might want to check out my comprehensive infosite about it: [Kobra2 Insights](https://1coderookie.github.io/Kobra2Insights/)  
 You'll find many specific information as well as some general kind of information.  
 
 There's also a [specific chapter about Klipper](https://1coderookie.github.io/Kobra2Insights/firmware/fw_klipper/) you might want to check out.  
--->  
+
 
 ---
 
